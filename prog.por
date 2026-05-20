@@ -1,6 +1,6 @@
-//Programaçao
+/*Programaçao
 
-//Atividade-6
+Atividade-7:*/
 programa {
   funcao inicio() {
     real n1, n2, n3, n4
@@ -22,3 +22,48 @@ programa {
     }
   }
 }
+
+/*Atividade-8:*/
+
+programa { 
+  
+  funcao inicio() {
+    cadeia mae = "Tess"
+    cadeia filha = "Anna"
+
+    escreva("antes de comer os biscoitos:", "\n", "nome da mae: ", mae, "\n", "Nome da filha: ", filha, "\n")
+
+    mae = "Anna"
+    filha = "Tess"
+
+      escreva("\n", "depois de comer os biscoitos:", "\n", "nome da mae: ", mae, "\n", "Nome da filha: ", filha, "\n")
+      
+  }
+}
+
+//Atividade-9:
+
+programa { 
+  
+  funcao inicio() {
+    real metros
+    escreva("escreva a quantidade de metros a ser convertida em centímetros:", "\n")
+    leia(metros)
+    escreva("essa quantidade de metros em centímetros é: ", metros*100, "\n")
+  }
+}
+
+//Atividade-10:
+
+programa { 
+  
+  funcao inicio() {
+    inteiro comp=105, lar=68
+    real area = comp*lar
+
+    escreva("A área do campo do Maracana é: ", area, " metros quadrados", "\n", "O dobro de sua área é: ",area*2," metros quadrados", "\nE o dobro da area em centímetros é: ", (area*2)*100, " centímetros quadrados\n")
+  }
+}
+
+
+
