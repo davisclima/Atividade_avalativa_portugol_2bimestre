@@ -1,6 +1,7 @@
 ANALISANDO CÓDIGOS
 
-1- Olá Mundo <br>
+1- Olá Mundo  
+
 O código imprimiu a mensagem "Olá Mundo".
   
 2- Olá MundoComo vai
