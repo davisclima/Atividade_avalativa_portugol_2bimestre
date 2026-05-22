@@ -16,7 +16,9 @@ Como vai
       Desta vez, se usou \n para direcionar a próxima frase à linha de baixo.  
       
      
-4- (Imprime o texto que o usuário inserir)  
+4-   
+(Linha vazia esperando o usuário atribuir um valor a variável nome)  
+(Valor escrito em cima)
 
      Criou-se uma variável chamada "nome", em seguida com o comando "leia" pediu um valor a ser atribuído para essa variável, quando o valor for colocado, ele imprime o texto escrito.
   
